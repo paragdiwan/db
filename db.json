@@ -56,7 +56,7 @@
             "label7": "Register for online services"
         }
     ],
-    "AccountSummary": [
+    "accountSummary": [
         {
             "id": 1,
             "account": "Checking Account (******9899)",
