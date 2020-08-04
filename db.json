@@ -271,5 +271,24 @@
         "Deposits/Checks": "$2,225.00",
         "Amount": "$18.00"
     }
+],
+  
+"checkout": [
+  {
+    "id": 1,
+    "account": "Checking Account (******9899)",
+    "accountlabel": "See full account no.",
+    "label1": "Available Balance",
+    "label1_amount": "$ 698",
+    "label2": "Deposits This Month",
+    "label2_amount": "+$0.00",
+    "label3": "Withdrawls This Month",
+    "label3_amount": "-$ 285.99",
+    "footlinks_1": "Statement",
+    "footlinks_2": "Paperless",
+    "footlinks_3": "Transfer Money",
+    "footlinks_4": "More ..."
+  }
 ]
+
 }
