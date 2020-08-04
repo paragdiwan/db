@@ -42,5 +42,17 @@
         "term": "monthly",
         "icon": "globe"
     }
-]
+],
+"login": [
+  "title": "login To Internet Banking",
+						    "label1": "Username",
+						    "label2": "Password",
+						    "label3": "Start in",
+						    "option1": "My Account",
+						    "label4": "Remember me",
+						    "label5": "Sign In",
+						    "label6": "Forgot Username/ Password?",
+						    "label7": "Register for online services"
+}],
+  
 }
