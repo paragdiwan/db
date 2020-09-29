@@ -59,7 +59,7 @@
     "accountSummary": [
         {
             "id": 1,
-            "account": "Checking Account (******9899)",
+            "account": "Checking Account (******9804)",
             "accountlabel": "See full account no.",
             "label1": "Available Balance",
             "label1_amount": "$ 698",
@@ -74,7 +74,7 @@
         },
         {
             "id": 2,
-            "account": "Checking Account (******9399)",
+            "account": "Savings Account (******9399)",
             "accountlabel": "See full account no.",
             "label1": "Available Balance",
             "label1_amount": "$ 473",
